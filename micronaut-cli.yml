@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.meli
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, cache-caffeine, data, data-jpa, gradle, hibernate-jpa, http-client, http-session, jdbc-hikari, junit, kotlin, kotlin-application, logback, mysql, netty-server, readme, shade, testcontainers, yaml]
